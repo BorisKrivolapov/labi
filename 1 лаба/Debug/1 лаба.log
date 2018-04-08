@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\master\desktop\лабы\1\1 лаба\1 лаба\classgeometry.h(55): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\master\desktop\лабы\1\1 лаба\1 лаба\classgeometry.h(56): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\master\desktop\лабы\1\1 лаба\1 лаба\classgeometry.h(180): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\master\desktop\лабы\1\1 лаба\1 лаба\classgeometry.h(181): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\master\desktop\лабы\1\1 лаба\1 лаба\source.cpp(23): warning C4551: в вызове функции отсутствует список аргументов
+  1 лаба.vcxproj -> C:\Users\Master\Desktop\лабы\1\1 лаба\Debug\1 лаба.exe
+  1 лаба.vcxproj -> C:\Users\Master\Desktop\лабы\1\1 лаба\Debug\1 лаба.pdb (Partial PDB)
