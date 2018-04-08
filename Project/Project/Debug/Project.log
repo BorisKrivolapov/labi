@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\борис\documents\github\labi\project\project\classgeometry.h(55): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\борис\documents\github\labi\project\project\classgeometry.h(56): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project.vcxproj -> C:\Users\Борис\Documents\GitHub\labi\Project\Debug\Project.exe
