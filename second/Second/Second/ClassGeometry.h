@@ -118,7 +118,10 @@ public:
 		return *this;
 	}
 };
-// 3 Ëàáà
+
+
+
+//ÂÑ¨ ×ÒÎ ÍÈÆÅ 3 ËÀÁÀ!!!!!
 class PointInSpace : public PointOnThePlane {
 private:
 	int z;
